@@ -10,7 +10,6 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WuanBui/WuanBui.github.io.git"
@@ -29,5 +28,9 @@
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.3",
     "vite": "^4.4.10"
+  },
+  "dependencies": {
+    "avif": "^0.4.4",
+    "scrollreveal": "^4.0.9"
   }
 }
