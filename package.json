@@ -30,7 +30,6 @@
     "vite": "^4.4.10"
   },
   "dependencies": {
-    "avif": "^0.4.4",
     "scrollreveal": "^4.0.9"
   }
 }
